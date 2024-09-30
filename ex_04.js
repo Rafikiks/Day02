@@ -1,0 +1,7 @@
+displayThisText (typeof true )
+displayThisText (typeof undefined)
+displayThisText (typeof 42)
+displayThisText (typeof 2n)
+displayThisText (typeof Symbol("12345"))
+displayThisText(typeof Object("1"))
+displayThisText(typeof Symbol)
